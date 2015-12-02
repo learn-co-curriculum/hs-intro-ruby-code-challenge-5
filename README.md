@@ -7,3 +7,5 @@ Hints:
 + Think about how Facebook users interact and the type of attributes and actions you will need. For instance the user might have a number of pokes that increases after they are poked by another user.
 + Don’t forget about instance variables!
 + Here's the completed gnome lab we did on Sunday [without attribute accessors](https://github.com/dfenjves/gnomecode/blob/master/gnome_no_accessors.rb) and [with attribute accessors for reference](https://github.com/dfenjves/gnomecode/blob/master/gnome.rb.
+
+<a href='https://learn.co/lessons/hs-intro-ruby-code-challenge-5' data-visibility='hidden'>View this lesson on Learn.co</a>
